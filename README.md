@@ -10,6 +10,5 @@
   - project.py combines the two codes above that creates the finalised self-driving car.
 
 # Video Demonstration
-Click the following link to view the video on YouTub: 
-[![IMAGE ALT TEXT HERE](https://youtu.be/58j5fUcpgM8/0.jpg)](https://youtu.be/58j5fUcpgM8)
-https://youtu.be/58j5fUcpgM8 https://youtu.be/58j5fUcpgM8
+Click the following link to view the video on YouTube: 
+[![Final Year Project Demo](https://youtu.be/58j5fUcpgM8/0.jpg)](https://youtu.be/58j5fUcpgM8)
