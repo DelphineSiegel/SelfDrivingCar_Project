@@ -46,7 +46,7 @@ class Road_Tracker:
         
 road_tracker = Road_Tracker()
 if __name__ == '__main__': 
-    print('Road Tracker') 
+    print('Self-Driving Car') 
     try: 
         road_tracker.run() 
     except KeyboardInterrupt: 
