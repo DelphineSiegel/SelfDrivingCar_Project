@@ -11,4 +11,4 @@
 
 # Video Demonstration
 Click the following link to view the video on YouTube: 
-[[Final Year Project Demo](https://youtu.be/58j5fUcpgM8/0.jpg)]
+[Final Year Project Demo](https://youtu.be/58j5fUcpgM8/0.jpg)
